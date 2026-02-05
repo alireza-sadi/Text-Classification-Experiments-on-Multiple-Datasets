@@ -1,5 +1,3 @@
-# Text-Classification-Experiments-on-Multiple-Datasets
-
 # Text Classification Experiments on Multiple Datasets
 
 This repository contains a series of experiments on text classification using both traditional machine learning and modern deep learning models across three benchmark datasets:
